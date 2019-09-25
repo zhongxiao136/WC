@@ -88,12 +88,12 @@ public class Frame extends JFrame{
         btn = 3;
         CountStart();
     }
-    private void countZ(ActionEvent event){
+    private void countA(ActionEvent event){
         btn = 4;
         CountStart();
     }
 
-    private void countA(ActionEvent event){
+    private void countZ(ActionEvent event){
         btn = 5;
         CountStart();
     }
