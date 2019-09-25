@@ -3,8 +3,8 @@ public class hello{
 		System.out.print("hello");
 }
 }
-//woshiyizhixiaozhiren
-//woshiyizhixiaozhiren
+//hello
+//hello
 /*
  * 打印“hello”
  */
