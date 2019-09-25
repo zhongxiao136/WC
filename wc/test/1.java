@@ -6,5 +6,5 @@ public class hello{
 //hello
 //hello
 /*
- * 打印“hello”
+ * hello
  */
